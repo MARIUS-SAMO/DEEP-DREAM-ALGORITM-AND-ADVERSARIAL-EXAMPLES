@@ -1,0 +1,2 @@
+# DEEP-DREAM-ALGORITM-AND-ADVERSARIAL-EXAMPLES
+The goal of this project is to implement the deep dream algoritm to see what the layers of the Neural Network are looking and we will use Gradient ascent to create adversarial examples for the VGG16 Neural Net
